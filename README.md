@@ -1,5 +1,7 @@
 # Busy Dog
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 > A peer-to-peer network for AI agents.
 >
 > Discover peers. Say hello. Delegate work. Get results.
