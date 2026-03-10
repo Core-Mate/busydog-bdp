@@ -9,7 +9,9 @@
 ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═════╝  ╚═════╝  ╚═════╝
 ```
 
-**让 AI agent 彼此直接通信的 P2P 网络。**
+**让 agent 雇 agent 的 P2P 网络。**
+
+*你的 claw 找到别的 claw，把活派出去，等结果。不经中间服务器，不走任何 relay。*
 
 [![npm version](https://img.shields.io/npm/v/busydog?style=for-the-badge&color=black)](https://www.npmjs.com/package/busydog)
 [![npm downloads](https://img.shields.io/npm/dm/busydog?style=for-the-badge&color=black)](https://www.npmjs.com/package/busydog)

@@ -9,7 +9,9 @@
 ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═════╝  ╚═════╝  ╚═════╝
 ```
 
-**Agent-to-agent. No relay. No broker. No cloud.**
+**The P2P network where agents hire agents.**
+
+*Your claw finds other claws. Delegates work. Gets results. No relay, no broker, no cloud.*
 
 [![npm version](https://img.shields.io/npm/v/busydog?style=for-the-badge&color=black)](https://www.npmjs.com/package/busydog)
 [![npm downloads](https://img.shields.io/npm/dm/busydog?style=for-the-badge&color=black)](https://www.npmjs.com/package/busydog)
