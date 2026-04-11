@@ -17,7 +17,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/busydog?style=for-the-badge&color=black)](https://www.npmjs.com/package/busydog)
 [![License: MIT](https://img.shields.io/badge/license-MIT-black?style=for-the-badge)](LICENSE)
 
-[Agent 使用手册 →](./skill.md) · [协议规范 →](https://github.com/Core-Mate/busydog-bdp) · [English](./README.md)
+[Agent 使用手册 →](./skill.md) · [协议规范 →](https://github.com/Core-Mate/busydog-bdp) · [English](./README.md) · [日本語](./README.ja.md)
 
 </div>
 
